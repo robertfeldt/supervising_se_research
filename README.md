@@ -20,3 +20,13 @@ Slides from this seminar:
 
 Additional links:
 - [Feldt's Half-way Thesis Presentation Format and Questions](https://www.cse.chalmers.se/~feldt/advice/master_thesis/feldt_thesis_halfway_questions_and_format.html)
+
+### Seminar 1B, 2024-09-24 10:00-11:00
+
+### Seminar 2, 2024-10-09 10:00-12:00, Jupiter 520
+
+Prepare for the discussion by reading/checking the following material **before** coming to the seminar:
+- [Jaakkola2022](https://github.com/robertfeldt/supervising_se_research/blob/main/related_work/jaakkola_2022_Practices_for_Supervising_Masters_Theses_in_Company_Context_An_Anti-Pattern_Approach.pdf), Jaakkola et al (2022), "Practices for Supervising Master’s Theses in Company Context: An Anti-Pattern Approach"
+- [Stol2018](https://github.com/robertfeldt/supervising_se_research/blob/main/related_work/stol_2018_abc_of_SE_research.pdf) Stol (2018), "The ABC of Software Engineering Research"
+
+When reading/checking these sources be sure to take some notes and reflect on how it matches with your own experience (or, if you haven't yet supervised) what you plan to do in and approach your future supervision.
