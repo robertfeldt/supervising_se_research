@@ -14,5 +14,9 @@ When reading/checking these sources be sure to take some notes and reflect on ho
 
 For this first seminar, you can focus on the process description and the proposal rubric of Feldt2010, but feel free to also check out the other rubrics to get a sense for how they were used throughout the process.
 
+Slides from this seminar:
+- Robert Feldt, ["Kickoff and Philosophies of Supervision"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/240918_feldt_kickoff_slides_and_styles_of_supervision.pdf)
+- Greg Gay, ["GU/Chalmers Supervision Process"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/240918_greg_Supervision_Process.pdf)
+
 Additional links:
 - [Feldt's Half-way Thesis Presentation Format and Questions](https://www.cse.chalmers.se/~feldt/advice/master_thesis/feldt_thesis_halfway_questions_and_format.html)
