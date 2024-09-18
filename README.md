@@ -13,3 +13,6 @@ research and practice"
 When reading/checking these sources be sure to take some notes and reflect on how it matches with your own experience (or, if you haven't yet supervised) what you plan to do in and approach your future supervision.
 
 For this first seminar, you can focus on the process description and the proposal rubric of Feldt2010, but feel free to also check out the other rubrics to get a sense for how they were used throughout the process.
+
+Additional links:
+- [Feldt's Half-way Thesis Presentation Format and Questions](https://www.cse.chalmers.se/~feldt/advice/master_thesis/feldt_thesis_halfway_questions_and_format.html)
