@@ -32,7 +32,7 @@ Prepare for the discussion by reading/checking the following material **before**
 When reading/checking these sources be sure to take some notes and reflect on how it matches with your own experience (or, if you haven't yet supervised) what you plan to do in and approach your future supervision.
 
 Slides from this seminar:
-- Robert Feldt, ["Types of theses, Research Methods, and Scoping of theses"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides)
+- Robert Feldt, ["Types of theses, Research Methods, and Scoping of theses"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241009_feldt_seminar2_types_methods_and_scoping.key.pdf)
 
 Additional links:
 - [Höst2010](https://github.com/robertfeldt/supervising_se_research/blob/main/related_work/host_2010_Support_for_Different_Roles_in_Software_Engineering_Masters_Thesis_Projects.pdf) Höst et al (2010), "Support for Different Roles in Software Engineering Master's Thesis Projects"
