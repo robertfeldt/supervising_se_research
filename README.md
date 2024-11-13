@@ -36,3 +36,12 @@ Slides from this seminar:
 
 Additional links:
 - [Höst2010](https://github.com/robertfeldt/supervising_se_research/blob/main/related_work/host_2010_Support_for_Different_Roles_in_Software_Engineering_Masters_Thesis_Projects.pdf) Höst et al (2010), "Support for Different Roles in Software Engineering Master's Thesis Projects"
+
+### Seminar 3, 2024-11-20 14:00-16:00, Jupiter 520
+
+Prepare for the discussion by reading/checking the following material **before** coming to the seminar:
+- [Ralph2020](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/EmpiricalStandardsReport.pdf), Ralph et al (2020), "Empirical Standards for Software Engineering Research, Version 0.2.0", ACM SigSoft, 2020
+
+You should orient yourself in general about the standard as a whole and the type of checklists that is defined by it. Furthermore, you should select and read in more detail at least:
+- a, the general standard which applies to any research paper/report
+- b, but also select the two standards/checklists that represents the research methods / type of papers that your thesis students are most likely to use. 
