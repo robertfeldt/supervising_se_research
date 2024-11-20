@@ -45,3 +45,9 @@ Prepare for the discussion by reading/checking the following material **before**
 You should orient yourself in general about the standard as a whole and the type of checklists that is defined by it. Furthermore, you should select and read in more detail at least:
 - a, the general standard which applies to any research paper/report
 - b, but also select the two standards/checklists that represents the research methods / type of papers that your thesis students are most likely to use. 
+
+Additional links:
+- [Bearman2024](https://www.tandfonline.com/doi/pdf/10.1080/02602938.2024.2307332), Bearman et al (2024), "Enhancing feedback practices within PhD supervision: a qualitative framework synthesis of the literature", Journal of Assessment & Evaluation in Higher Education, 2024
+- [Chugh2022](https://www.tandfonline.com/doi/pdf/10.1080/02602938.2021.1955241) Chugh, Ritesh, Stephanie Macht, and Bobby Harreveld. "Supervisory feedback to postgraduate research students: a literature review." Assessment & Evaluation in Higher Education 47.5 (2022): 683-697.
+- [Mustafa2024](https://medium.com/illumination/from-novice-to-expert-discover-the-12-essential-models-for-feedback-mastery-6a670042a62f), Nadeem Mustafa blog post "From Novice to Expert: Discover the 12 Essential Models for Feedback Mastery", Medium, 2024
+  - Shows general feedback models from business etc that might provide additional perspective on feedback styles
