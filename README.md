@@ -48,8 +48,8 @@ You should orient yourself in general about the standard as a whole and the type
 
 Slides from this seminar:
 - Robert Feldt, ["Empirical standards and feedback"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_feldt_seminar3_empirical_standards_and_feedback.pdf)
-- Hans-Martin Heyn, ["Providing feedback"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_heyn_providing_feedback.pptx)
-- Hans-Martin Heyn, ["Case studies in SE"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_heyn_case_studies_in_se.pptx)
+- Hans-Martin Heyn, ["Providing feedback"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_heyn_providing_feedback.pptx) PPTX file
+- Hans-Martin Heyn, ["Case studies in SE"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_heyn_case_studies_in_se.pptx) PPTX file
 
 Additional links:
 - [Bearman2024](https://www.tandfonline.com/doi/pdf/10.1080/02602938.2024.2307332), Bearman et al (2024), "Enhancing feedback practices within PhD supervision: a qualitative framework synthesis of the literature", Journal of Assessment & Evaluation in Higher Education, 2024
