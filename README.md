@@ -46,6 +46,11 @@ You should orient yourself in general about the standard as a whole and the type
 - a, the general standard which applies to any research paper/report
 - b, but also select the two standards/checklists that represents the research methods / type of papers that your thesis students are most likely to use. 
 
+Slides from this seminar:
+- Robert Feldt, ["Empirical standards and feedback"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_feldt_seminar3_empirical_standards_and_feedback.pdf)
+- Hans-Martin Heyn, ["Providing feedback"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_heyn_providing_feedback.pptx)
+- Hans-Martin Heyn, ["Case studies in SE"](https://github.com/robertfeldt/supervising_se_research/blob/main/slides/241120_heyn_case_studies_in_se.pptx)
+
 Additional links:
 - [Bearman2024](https://www.tandfonline.com/doi/pdf/10.1080/02602938.2024.2307332), Bearman et al (2024), "Enhancing feedback practices within PhD supervision: a qualitative framework synthesis of the literature", Journal of Assessment & Evaluation in Higher Education, 2024
 - [Chugh2022](https://www.tandfonline.com/doi/pdf/10.1080/02602938.2021.1955241) Chugh, Ritesh, Stephanie Macht, and Bobby Harreveld. "Supervisory feedback to postgraduate research students: a literature review." Assessment & Evaluation in Higher Education 47.5 (2022): 683-697.
