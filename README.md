@@ -56,4 +56,4 @@ Additional links:
 - [Chugh2022](https://www.tandfonline.com/doi/pdf/10.1080/02602938.2021.1955241) Chugh, Ritesh, Stephanie Macht, and Bobby Harreveld. "Supervisory feedback to postgraduate research students: a literature review." Assessment & Evaluation in Higher Education 47.5 (2022): 683-697.
 - [Mustafa2024](https://medium.com/illumination/from-novice-to-expert-discover-the-12-essential-models-for-feedback-mastery-6a670042a62f), Nadeem Mustafa blog post "From Novice to Expert: Discover the 12 Essential Models for Feedback Mastery", Medium, 2024
   - Shows general feedback models from business etc that might provide additional perspective on feedback styles
-- [Wohlin2022](https://github.com/robertfeldt/supervising_se_research/blob/main/related_work/wohlin_rainer_2022_is_it_a_case_study.pdf)
+- [Wohlin2022](https://github.com/robertfeldt/supervising_se_research/blob/main/related_work/wohlin_rainer_2022_is_it_a_case_study.pdf), "Is it a case study?"
